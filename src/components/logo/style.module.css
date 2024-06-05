@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+.img{
+    height: 70px;
+    width: 90px;
+}
+.title{
+    font-size: 45px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 10px;
+    white-space: nowrap;
+}

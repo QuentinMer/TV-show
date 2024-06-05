@@ -1,0 +1,29 @@
+.container{
+ margin-left: 2%;
+}
+.titre {
+  font-weight: 400;
+  font-size: 35px;
+}
+.langue {
+    font-weight: 300;
+    font-size: 25px;
+}
+.note_container{
+  display: flex;
+}
+.note {
+  margin-top: 3px;
+  margin-left: 5px;
+}
+.overview:hover {
+  overflow-y: auto;
+}
+.overview {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+  height: 120px;
+  overflow-y: hidden;
+  margin-top: 10px;
+}
